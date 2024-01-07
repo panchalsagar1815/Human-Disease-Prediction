@@ -28,7 +28,7 @@ The project incorporates a wide range of symptoms for disease prediction, includ
 - Weight loss
 - Restlessness
 - Lethargy
-- Patches in throat
+- Patches in the throat
 - Irregular sugar level
 - Cough
 - High fever

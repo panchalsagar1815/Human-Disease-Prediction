@@ -16,7 +16,7 @@ The project incorporates a wide range of symptoms for disease prediction, includ
 - Joint pain
 - Stomach pain
 - Acidity
-- Ulcers on tongue
+- Ulcers on the tongue
 - Muscle wasting
 - Vomiting
 - Burning micturition

@@ -1,5 +1,3 @@
-
-
 # Project Title: Human Disease Prediction
 
 ## Project Overview:

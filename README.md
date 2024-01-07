@@ -57,3 +57,10 @@ The project incorporates a wide range of symptoms for disease prediction, includ
 
 7. **User Interface:** Develop an intuitive user interface allowing users to input their symptoms, and receive predictions on potential diseases.
 
+## Expected Outcomes:
+- Accurate disease prediction based on input symptoms.
+- User-friendly interface for easy interaction.
+- Insights into the relationships between symptoms and diseases.
+- Deployment-ready machine learning model.
+
+This project aims to enhance early disease detection and contribute to better healthcare by leveraging advanced machine learning techniques.

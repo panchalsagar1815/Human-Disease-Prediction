@@ -23,7 +23,7 @@ The project incorporates a wide range of symptoms for disease prediction, includ
 - Fatigue
 - Weight gain
 - Anxiety
-- Cold hands and feets
+- Cold hands and feet
 - Mood swings
 - Weight loss
 - Restlessness
